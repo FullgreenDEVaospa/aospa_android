@@ -438,7 +438,6 @@
   <project path="vendor/samsung" name="fullgreen/proprietary_vendor_samsung" remote="github" revision="cm-11.0" />
   <project path="packages/apps/SamsungServiceMode" name="cyanogenmod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-11.0" />
   <project path="hardware/samsung" name="cyanogenmod/android_hardware_samsung" remote="github" revision="cm-11.0" />
-  <project path="external/stlport" name="cyanogenmod/android_external_stlport" remote="github" revision="cm-11.0" />
 <!-- End c1skt source -->
 
 </manifest>
